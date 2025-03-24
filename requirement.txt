@@ -1,0 +1,7 @@
+instagrapi
+python-dotenv
+schedule
+moviepy==1.0.3
+ffmpeg-python
+Pillow
+numpy

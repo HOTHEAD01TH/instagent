@@ -1,0 +1,9 @@
+.env
+reels/
+uploaded/
+session.pkl
+config
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
